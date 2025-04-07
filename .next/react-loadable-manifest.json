@@ -1,0 +1,20 @@
+{
+  "app\\(defaultLayout)\\blog\\grid\\page.jsx -> isotope-layout": {
+    "id": 2257,
+    "files": [
+      "static/chunks/257.36e5f9702ad81d7d.js"
+    ]
+  },
+  "app\\(defaultLayout)\\blog\\grid\\page.jsx -> react-select": {
+    "id": 2774,
+    "files": [
+      "static/chunks/355.173e7343b8075dd9.js"
+    ]
+  },
+  "app\\Components\\Forms\\ConsultationForm.jsx -> react-select": {
+    "id": 2774,
+    "files": [
+      "static/chunks/355.173e7343b8075dd9.js"
+    ]
+  }
+}

@@ -6,7 +6,8 @@
         "dev": "next dev",
         "build": "next build",
         "start": "next start",
-        "lint": "next lint"
+        "lint": "next lint",
+        "deploy": "gh-pages -d out"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^6.4.0",
@@ -34,6 +35,8 @@
         "react-dom": "^18",
         "react-select": "^5.8.3",
         "react-slick": "^0.30.2",
+        "rf": "^0.0.1",
+        "rm": "^0.1.8",
         "sass": "^1.82.0",
         "sharp": "^0.33.5",
         "slick-carousel": "^1.8.1",
@@ -42,6 +45,7 @@
     },
     "devDependencies": {
         "eslint": "^8",
-        "eslint-config-next": "14.2.14"
+        "eslint-config-next": "14.2.14",
+        "gh-pages": "^6.3.0"
     }
 }

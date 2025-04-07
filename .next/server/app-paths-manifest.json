@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(defaultLayout)/error/page": "app/(defaultLayout)/error/page.js",
+  "/(defaultLayout)/page": "app/(defaultLayout)/page.js",
+  "/(defaultLayout)/contact/page": "app/(defaultLayout)/contact/page.js",
+  "/(defaultLayout)/blog/detail/page": "app/(defaultLayout)/blog/detail/page.js",
+  "/(defaultLayout)/project/detail/page": "app/(defaultLayout)/project/detail/page.js",
+  "/home2/page": "app/home2/page.js",
+  "/(defaultLayout)/project/template2/page": "app/(defaultLayout)/project/template2/page.js",
+  "/(defaultLayout)/service/detail/page": "app/(defaultLayout)/service/detail/page.js",
+  "/(defaultLayout)/service/template2/page": "app/(defaultLayout)/service/template2/page.js",
+  "/(defaultLayout)/service/template1/page": "app/(defaultLayout)/service/template1/page.js",
+  "/(defaultLayout)/project/template1/page": "app/(defaultLayout)/project/template1/page.js",
+  "/(defaultLayout)/blog/sidebar/page": "app/(defaultLayout)/blog/sidebar/page.js",
+  "/(defaultLayout)/blog/grid/page": "app/(defaultLayout)/blog/grid/page.js",
+  "/(defaultLayout)/about/page": "app/(defaultLayout)/about/page.js"
+}
