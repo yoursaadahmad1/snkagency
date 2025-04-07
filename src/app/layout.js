@@ -55,13 +55,13 @@ const poppinsThin = localFont({
 export const metadata = {
   title: {
     absolute: '',
-    default: 'Slope – Agency & Studio NextJS Template',
-    template: '%s | Slope – Agency & Studio NextJS Template',
+    default: 'SnK – Agency & Studio',
+    template: '%s | SnK – Agency & Studio',
   },
-  description: 'Slope – Agency & Studio NextJS Template',
+  description: 'SnK – Agency & Studio',
   openGraph: {
-    title: 'Slope – Agency & Studio NextJS Template',
-    description: 'Slope – Agency & Studio NextJS Template',
+    title: 'SnK – Agency & Studio',
+    description: 'SnK – Agency & Studio',
   },
 };
 
