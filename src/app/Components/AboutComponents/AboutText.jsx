@@ -11,7 +11,7 @@ function AboutText(props) {
                     <div className="row">
                         <div className="col-lg-10 offset-lg-1">
                             <div className="about-text-section-inner">
-                                <Image src={props.image} alt="about-logo" />
+                                <Image src={props.image} alt="about-logo" height={250} width={250} />
                                 <h2 className="heading heading-large light-1">
                                     {props.content}
                                 </h2>

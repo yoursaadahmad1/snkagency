@@ -7,7 +7,7 @@ import ImageSection from '../../../Components/Sections/ImageSection';
 import Art from '../../../Components/Misc/Art';
 import TabsSection from '../../../Components/Sections/TabsSection';
 import { imageSectionData } from '../../../Data/ImageSectionData';
-import logo from '../../../assets/images/logo.png';
+import logowhite from '../../../assets/images/logowhite.png';
 import artImage from '../../../assets/images/art_2.png'
 import blogContent from '../../../assets/images/blog_content_img.jpg'
 
@@ -17,7 +17,7 @@ function ServicesDetailed() {
     return (
         <>
             <ServicesDetailedheader />
-            <AboutText image={logo} content="To deliver our expertise flexibly and with maximum impact, we have developed
+            <AboutText image={logowhite} content="To deliver our expertise flexibly and with maximum impact, we have developed
                                     three different ways of working. Each is adaptable to your core needs, processes
                                     and culture of your business." />
 

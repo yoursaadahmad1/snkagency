@@ -10,7 +10,7 @@ import Art from '../../Components/Misc/Art';
 import { imageSectionData } from '../../Data/ImageSectionData';
 import aboutHeader from "../../assets/images/about-header.jpg"
 import art1 from "../../assets/images/art_1.png"
-import logo from "../../assets/images/logo.png"
+import logowhite from "../../assets/images/logowhite.png"
 
 import Image from 'next/image';
 
@@ -41,7 +41,7 @@ function About() {
                     <Art art={art1} type="1" />
                 </div>
             </div>
-            <AboutText image={logo} content="To deliver our expertise flexibly and with maximum impact, we have developed
+            <AboutText image={logowhite} content="To deliver our expertise flexibly and with maximum impact, we have developed
                                     three different ways of working. Each is adaptable to your core needs, processes
                                     and culture of your business." />
             {imageSectionData.map((imageSection, index) => (
