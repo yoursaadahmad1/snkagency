@@ -3,7 +3,7 @@
 import React, { useEffect } from "react";
 import Image from "next/image";
 import { p_nbsp } from "../utils";
-import logo from '../../assets/images/logo.png';
+import logowhite from '../../assets/images/logowhite.png';
 
 function Preloader() {
   useEffect(() => {
@@ -70,7 +70,7 @@ function Preloader() {
           <span></span>
         </div>
       </div>
-      <Image src={logo} alt="slope-logo" />
+      <Image src={logowhite} alt="slope-logo" height={100} width={100} />
     </div>
   );
 }

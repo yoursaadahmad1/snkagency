@@ -2,7 +2,7 @@
 import React from 'react';
 import NavSocials from '../Navs/NavSocials';
 import Image from 'next/image';
-import logo from '../../assets/images/logo.png'
+import logowhite from '../../assets/images/logowhite.png'
 
 function Footer() {
     return (
@@ -14,14 +14,14 @@ function Footer() {
                             <div className="col-lg-6">
                                 <div className="footer--logo">
                                     <a href="index.html">
-                                        <Image src={logo} alt="footer" />
+                                        <Image src={logowhite} alt="footer" height={100} width={100} />
                                     </a>
                                 </div>
                             </div>
                             <div className="col-lg-5 offset-lg-1">
                                 <div className="footer--paragraph">
                                     <h3 className="heading heading-large light-1">
-                                        A young digital agency in the heart of Sydney.
+                                        A young digital agency in the heart of Vehari.
                                     </h3>
                                 </div>
                             </div>
@@ -32,24 +32,24 @@ function Footer() {
                             <div className="col-lg-4">
                                 <div className="detail-single footer-phone-number">
                                     <h6>PHONE</h6>
-                                    <a href="tel:8039376963">
-                                        <h4>(803) 937 6963</h4>
+                                    <a href="tel:+923056755492">
+                                        <h4>+92 305 6755492</h4>
                                     </a>
                                 </div>
                                 <div className="detail-single footer-address">
                                     <h6>ADDRESS</h6>
                                     <h4>
-                                        Baldwinsville, Sydney,
+                                        Vehari, 61100,
                                         <br />
-                                        NSW, Australia
+                                        Punjab, Pakistan
                                     </h4>
                                 </div>
                             </div>
                             <div className="col-lg-4">
                                 <div className="detail-single footer-email">
                                     <h6>ENQUIRIES</h6>
-                                    <a href="/mailto:hello@example.com">
-                                        <h4>hello@example.com</h4>
+                                    <a href="/mailto:mosesnuggz@gmail.com">
+                                        <h4>mosesnuggz@gmail.com</h4>
                                     </a>
                                 </div>
                                 <div className="detail-single">
