@@ -2,10 +2,8 @@
 const isProd = process.env.NODE_ENV === 'production';
 
 const nextConfig = {
-  output: isProd ? 'export' : undefined,
+  output: 'export',
   trailingSlash: true,
-  basePath: isProd ? '/slope-nextjs' : '',
-  assetPrefix: isProd ? '/slope-nextjs/' : '',
   images: {
     unoptimized: true,
   },
